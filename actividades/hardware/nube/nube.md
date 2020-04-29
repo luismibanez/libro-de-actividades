@@ -76,6 +76,7 @@ Abrir el acceso Web desde el cortafuegos. El cortafuegos filtra las comunicacion
 
 * `zypper in php7 php7-mysql apache2-mod_php7`, Installing PHP7
 * `a2enmod php7`, to enable mod-php.
+* `service apache2 restart`, to restart apache2
 
 ## 2.4 Database MariaDB
 
